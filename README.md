@@ -1,8 +1,8 @@
 # Kroshencko_qa
-[Пример моих тест кейсов](https://antitreningi.ru/student/lessons/lesson/?course_id=111146&lesson_id=2160911)
+[РџСЂРёРјРµСЂ РјРѕРёС… С‚РµСЃС‚ РєРµР№СЃРѕРІ](https://antitreningi.ru/student/lessons/lesson/?course_id=111146&lesson_id=2160911)
 
 ---
 
-[Пример моего тестового задания](https://antitreningi.ru/student/lessons/lesson?lesson_id=2160920&course_id=111146)
+[РџСЂРёРјРµСЂ РјРѕРµРіРѕ С‚РµСЃС‚РѕРІРѕРіРѕ Р·Р°РґР°РЅРёСЏ](https://antitreningi.ru/student/lessons/lesson?lesson_id=2160920&course_id=111146)
 
 
